@@ -1,31 +1,29 @@
-### ***'Demo_run.m'*** is the main file
-
 # Selective-LF-Refocusing
 ***Repository of "Selective Light Field Refocusing for Camera Arrays Using Bokeh Rendering and Superresolution". [<a href="https://yingqianwang.github.io/Selective-LF-Refocusing/wang2018selective.pdf">PDF</a>]*** <br>
 
-### <img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Thumbnail.jpg" width="600">
+### <img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Thumbnail.jpg" width="500">
 ***Our method can selectively refocus images with focused region being super-resolved and bokeh being esthetically rendered. Our method also enables post-adjustment of depth of field. Experiments on both public and self-developed datasets demonstrate that our method achieves superior visual performance with acceptable computational cost as compared to other state-of-the-art methods.*** <br><br>
 
 ## Overview
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/overview.jpg" width="820"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/overview.jpg" width="600"><br>
 
 ## Comparison to SOTAs on Public Datasets
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Comparison_1.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Comparison_1.jpg" width="600"><br>
 <br>
 ## Comparison to SOTAs on Self-Developed Datasets
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Comparison_2.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Comparison_2.jpg" width="900"><br>
 
 ## Post-Adjustable Depth-of-Field
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/AdjustableDoF.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/AdjustableDoF.jpg" width="600"><br>
 
 ## Influence of Inaccurate Disparity
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/InaccurateDisparity.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/InaccurateDisparity.jpg" width="600"><br>
 
 ## Execution Time
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/ExecutionTime.jpg" width="500"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/ExecutionTime.jpg" width="600"><br>
 
 ## Influence of K and Number of Iterations (NoI) on Execution Time
-<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/KandNoI.jpg" width="800"><br>
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/KandNoI.jpg" width="600"><br>
 
 ## Citiation
 ***If you find our work helpful, please cite:*** <br><br>
