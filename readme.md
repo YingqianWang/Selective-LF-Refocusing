@@ -1,7 +1,7 @@
 # Selective-LF-Refocusing
 ***Repository of "Selective Light Field Refocusing for Camera Arrays Using Bokeh Rendering and Superresolution". [<a href="https://yingqianwang.github.io/Selective-LF-Refocusing/wang2018selective.pdf">PDF</a>]*** <br>
 
-### <img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Thumbnail.jpg" width="500">
+<img src="https://raw.github.com/YingqianWang/Selective-LF-Refocusing/master/Figs/Thumbnail.jpg" width="400"><br>
 ***Our method can selectively refocus images with focused region being super-resolved and bokeh being esthetically rendered. Our method also enables post-adjustment of depth of field. Experiments on both public and self-developed datasets demonstrate that our method achieves superior visual performance with acceptable computational cost as compared to other state-of-the-art methods.*** <br><br>
 
 ## Overview
